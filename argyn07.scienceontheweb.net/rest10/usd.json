@@ -1,0 +1,107 @@
+{
+    "table": "A",
+    "currency": "dolar ameryka\u0144ski",
+    "code": "USD",
+    "rates": [
+        {
+            "no": "229\/A\/NBP\/2025",
+            "effectiveDate": "2025-11-26",
+            "mid": 3.6578
+        },
+        {
+            "no": "230\/A\/NBP\/2025",
+            "effectiveDate": "2025-11-27",
+            "mid": 3.651
+        },
+        {
+            "no": "231\/A\/NBP\/2025",
+            "effectiveDate": "2025-11-28",
+            "mid": 3.6624
+        },
+        {
+            "no": "232\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-01",
+            "mid": 3.6383
+        },
+        {
+            "no": "233\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-02",
+            "mid": 3.6512
+        },
+        {
+            "no": "234\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-03",
+            "mid": 3.6333
+        },
+        {
+            "no": "235\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-04",
+            "mid": 3.6221
+        },
+        {
+            "no": "236\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-05",
+            "mid": 3.6313
+        },
+        {
+            "no": "237\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-08",
+            "mid": 3.63
+        },
+        {
+            "no": "238\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-09",
+            "mid": 3.6336
+        },
+        {
+            "no": "239\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-10",
+            "mid": 3.6329
+        },
+        {
+            "no": "240\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-11",
+            "mid": 3.6132
+        },
+        {
+            "no": "241\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-12",
+            "mid": 3.6027
+        },
+        {
+            "no": "242\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-15",
+            "mid": 3.5928
+        },
+        {
+            "no": "243\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-16",
+            "mid": 3.593
+        },
+        {
+            "no": "244\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-17",
+            "mid": 3.5976
+        },
+        {
+            "no": "245\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-18",
+            "mid": 3.5893
+        },
+        {
+            "no": "246\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-19",
+            "mid": 3.5941
+        },
+        {
+            "no": "247\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-22",
+            "mid": 3.5904
+        },
+        {
+            "no": "248\/A\/NBP\/2025",
+            "effectiveDate": "2025-12-23",
+            "mid": 3.5848
+        }
+    ]
+}
